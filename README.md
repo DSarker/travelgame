@@ -8,19 +8,19 @@ Creating the game improved experience with swing and integration with a database
 #### Screenshots
  
 <p align="center">
-  <img src="screenshots/home.jpg">
+  <img src="screenshots/home.JPG">
 </p>
  
 <p align="center">
-  <img src="screenshots/scenario.jpg">
+  <img src="screenshots/scenario.JPG">
 </p>
   
 <p align="center">
-  <img src="screenshots/choices.jpg">
+  <img src="screenshots/choices.JPG">
 </p>
    
 <p align="center">
-  <img src="screenshots/winning.jpg">
+  <img src="screenshots/winning.JPG">
 </p>
  
  
